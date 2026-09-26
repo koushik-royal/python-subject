@@ -1,2 +1,2 @@
 
-this is koushik i was doing git process
+# this is koushik i was doing git process
